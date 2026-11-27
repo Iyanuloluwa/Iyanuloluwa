@@ -17,9 +17,9 @@ I'm a software engineer focused on backend development, reliable APIs, and scala
 
 ## 🚀 Projects
 
-- [TippyMe](http://tippyme.click/)
+- [TippyMe](http://tippyme.click/) - Failed project
 - [Vidcipe](https://vidcipe.xyz/)
 - [Recircle](https://www.recircle.cv/)
-- [Texteo](https://www.texteo.site/)
+- [Texteo](https://www.texteo.site/) - Failed Project 
 
 I enjoy building useful products, solving problems, and improving application performance.
